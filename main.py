@@ -36,7 +36,7 @@ def prompt_add_book(name):
   database.add_book(name)
 
 def prompt_list_books():
-  database.list_books()
+  print(database.list_books())
 
 def prompt_read_book(name):
   database.read_book(name)

@@ -1,0 +1,3 @@
+a,b,0
+abc,xyz,0
+tinkle,pai,1
